@@ -3,8 +3,9 @@
 
 # 详情  
 ## 1 grunt
- 
- demo 包含grunt 能做的工作 代码检查，合并文件，压缩文件，模块化requirejs, css预处理器less
+
+ demo 包含grunt 能做的工作 代码检查，合并文件，压缩文件，模块化requirejs, css预处理器less.
+
  插件：
     - "grunt-contrib-clean": "^2.0.0",
     - "grunt-contrib-concat": "^1.0.1",
